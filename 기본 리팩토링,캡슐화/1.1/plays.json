@@ -1,0 +1,5 @@
+{
+  "halmet": { "name": "Halet", "type": "tragedy" },
+  "as-like": { "name": "As You Lik It", "type": "comedy" },
+  "othello": { "name": "Ohello", "type": "tragedy" }
+}

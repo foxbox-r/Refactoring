@@ -1,0 +1,1 @@
+const organization = { name: "", country: "" };
